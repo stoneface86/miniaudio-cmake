@@ -1,3 +1,9 @@
+NOTE: This fork of miniaudio adds a top-level CMakeLists.txt for cmake support.
+Provides a cmake library target that can be used in any cmake project. The library
+target is also installable.
+
+<br/>
+
 <h1 align="center">
     <a href="https://miniaud.io"><img src="https://miniaud.io/img/miniaudio_wide.png" alt="miniaudio" width="1280"></a>
     <br>
